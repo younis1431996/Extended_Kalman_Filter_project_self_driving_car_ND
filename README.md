@@ -5,8 +5,8 @@ In this project a kalman filter is used to estimate the state of a moving object
 
 [//]: # (Image References)
 
-[image1]: ./images/Dataset1.png "Result of Dataset 1"
-[image2]: ./images/Dataset2.png "Result of Dataset 2"
+[image1]: ./images/Dataset_1.png "Result of Dataset 1"
+[image2]: ./images/Dataset_2.png "Result of Dataset 2"
 
 ## Prerequisites
 
